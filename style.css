@@ -329,7 +329,7 @@ a:hover {
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
-    text-align: inherit;
+    text-align: center;
 }
 
 .nav > li a:hover,
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .nav-invert .navbar .nav {
-    float: left;
+    float: center;
 }
 
 .nav-invert .navbar-header,
