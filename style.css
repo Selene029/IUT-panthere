@@ -778,6 +778,9 @@ h4 {
     color: #F3976C!important;
 }
 
+.tc-orange {
+    color: white!important;
+}
 .tc-black {
     color: black!important;
 }
@@ -823,7 +826,6 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation-min.webp");
-}
 
 .textcitation {
     color: black!important;
