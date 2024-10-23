@@ -323,7 +323,7 @@ a:hover {
 }
 
 .nav > li {
-    float: left;
+    float: center;
     margin-top: 4px;
     font-size: 16px;
 }
